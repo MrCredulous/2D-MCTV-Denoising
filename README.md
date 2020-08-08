@@ -28,7 +28,7 @@ url: <https://link.springer.com/article/10.1007/s11760-018-1248-2>
 
 - Feel free to explore and modify all parameter values in `main.py`. For detailed explanation of each parameter and its proper value range, please see the comment in code. 
 
-- For MATLAB version of the source code, you can email me: <yilinl2@andrew.cmu.edu>.
+- For MATLAB version of the source code, you can email me @ <yilinl2@alumni.cmu.edu>.
 
 - I followed the instruction and used the source code of "Bregmanized Nonlocal Regularization for Deconvolution and Sparse Reconstruction" to get the NLTV denoising result (paper url: <https://doi.org/10.1137/090746379>), and saved it as `NLTV.jpg`. It greatly facilitates my coding process. You may download the source code from the author Xiaoqun Zhang's homepage, or here: <http://math.sjtu.edu.cn/faculty/xqzhang/html/code.html>.
 
